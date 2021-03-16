@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\Visual Studio 2019\Project\Bot Discord source Creator by Scary Tiger\Bot Discord source Creator by Scary Tiger\obj\Debug\Bot Discord source Creator by Scary Tiger.csprojAssemblyReference.cache
+C:\Users\franc\Documents\Visual Studio 2019\Project\Bot Discord source Creator by Scary Tiger\Bot Discord source Creator by Scary Tiger\obj\Debug\Bot_Discord_source_Creator_by_Scary_Tiger.Form1.resources
+C:\Users\franc\Documents\Visual Studio 2019\Project\Bot Discord source Creator by Scary Tiger\Bot Discord source Creator by Scary Tiger\obj\Debug\Bot_Discord_source_Creator_by_Scary_Tiger.Properties.Resources.resources
+C:\Users\franc\Documents\Visual Studio 2019\Project\Bot Discord source Creator by Scary Tiger\Bot Discord source Creator by Scary Tiger\obj\Debug\Bot Discord source Creator by Scary Tiger.csproj.GenerateResource.cache
+C:\Users\franc\Documents\Visual Studio 2019\Project\Bot Discord source Creator by Scary Tiger\Bot Discord source Creator by Scary Tiger\obj\Debug\Bot Discord source Creator by Scary Tiger.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Visual Studio 2019\Project\Bot Discord source Creator by Scary Tiger\Bot Discord source Creator by Scary Tiger\bin\Debug\Bot Discord source Creator by Scary Tiger.exe.config
+C:\Users\franc\Documents\Visual Studio 2019\Project\Bot Discord source Creator by Scary Tiger\Bot Discord source Creator by Scary Tiger\bin\Debug\Bot Discord source Creator by Scary Tiger.exe
+C:\Users\franc\Documents\Visual Studio 2019\Project\Bot Discord source Creator by Scary Tiger\Bot Discord source Creator by Scary Tiger\bin\Debug\Bot Discord source Creator by Scary Tiger.pdb
+C:\Users\franc\Documents\Visual Studio 2019\Project\Bot Discord source Creator by Scary Tiger\Bot Discord source Creator by Scary Tiger\obj\Debug\Bot Discord source Creator by Scary Tiger.exe
+C:\Users\franc\Documents\Visual Studio 2019\Project\Bot Discord source Creator by Scary Tiger\Bot Discord source Creator by Scary Tiger\obj\Debug\Bot Discord source Creator by Scary Tiger.pdb
